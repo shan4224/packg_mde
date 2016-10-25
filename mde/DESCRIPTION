@@ -1,0 +1,11 @@
+Package: mde
+Type: Package
+Title: Find mode of a variable
+Version: 0.1.0
+Author: Shan
+Maintainer: Shan <shan2016exp@gmail.com>
+Description: Function to find mode of a categorical variable. Display warning
+    message if the variable is not categorical.
+License: GPL-3
+LazyData: TRUE
+RoxygenNote: 5.0.1
